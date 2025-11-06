@@ -4,3 +4,5 @@ if (true) {
     echo "Hello world";
 }
 dev1's and dev2's new changes
+
+$name = "John";
