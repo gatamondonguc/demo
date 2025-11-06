@@ -3,4 +3,4 @@ dev2 adds their own changes to this file.
 if (true) {
     echo "Hello world";
 }
-dev1's new changes
+dev1's and dev2's new changes
