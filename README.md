@@ -3,3 +3,4 @@ dev2 adds their own changes to this file.
 if (true) {
     echo "Hello world";
 }
+dev2's new changes
