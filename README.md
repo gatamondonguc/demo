@@ -1,1 +1,5 @@
 This is dev1's changes in the file
+dev2 adds their own changes to this file.
+if (true) {
+    echo "Hello world";
+}
